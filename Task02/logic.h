@@ -1,1 +1,1 @@
-
+int power(int x, int n);
